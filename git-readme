@@ -1,0 +1,5 @@
+
+important command to use when shit gets out of sync
+--refusing to merge unrelated histories error
+git pull kstst master --allow-unrelated-histories
+
